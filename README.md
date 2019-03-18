@@ -15,3 +15,9 @@
 
 # Výstup programu
 ![Vystup programu](https://i.nahraj.to/f/2fCo.PNG)
+
+# Nahrávanie programu cez ESPTool
+![ESPTool nahravanie](https://i.nahraj.to/f/2fCB.PNG)
+
+# Vyčítanie programu cez ESPTool
+![ESPTool](https://i.nahraj.to/f/2fCA.PNG)
