@@ -5,6 +5,7 @@
 * Pri nahrávaní - pripojení ESPToolu - držať EN, BOOT tlačidlo, pustiť EN.
 * Počas nahrávania už je možné BOOT tlačidlo pustiť
 * Po nahratí programu stlačiť EN
+* Doska vypisuje každých 5 sekúnd na UART s baudrate 115200 hlášku Žijem!
 
 # Vyčítanie programu
 * Spustiť vycitanie.bat súbor
