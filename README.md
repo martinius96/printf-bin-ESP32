@@ -1,6 +1,6 @@
 # Printf pre ESP32
 # Nahratie programu
-* Spustiť .bat súbor
+* Spustiť nahratie_programu.bat súbor
 * V .bat súbore zmeniť COM port
 * Pri nahrávaní - pripojení ESPToolu - držať EN, BOOT tlačidlo, pustiť EN.
 * Počas nahrávania už je možné BOOT tlačidlo pustiť
@@ -8,7 +8,7 @@
 * Doska vypisuje každých 5 sekúnd na UART s baudrate 115200 hlášku Žijem!
 
 # Vyčítanie programu
-* Spustiť vycitanie.bat súbor
+* Spustiť vycitanie_programu.bat súbor
 * V bat. súbore zmeniť COM port
 * Pri pripájaní ESPToolu stlačiť a držať EN a BOOT tlačidlo súčasne
 * Vyčítavanie sketchu začne automaticky
